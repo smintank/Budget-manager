@@ -8,7 +8,8 @@ from aiogram.enums import ParseMode
 from dotenv import load_dotenv
 
 
-load_dotenv()
+logging.basicConfig(level=logging.INFO, stream=sys.stdout)
+logger = logging.getLogger(__name__)
 
 TOKEN = getenv('TG_BOT_TOKEN')
 
