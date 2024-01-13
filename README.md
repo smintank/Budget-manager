@@ -1,4 +1,4 @@
-## Budget API (in developing)
+## Budget-manager (in developing)
 
 ### About
 Api service for an automation of financial transaction records and budget control. Powered by FastAPI framework and Sqlite3 DB. 
