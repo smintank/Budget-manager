@@ -68,4 +68,4 @@ DELETE  /api/v1/budget/income/{income_id}/
 #### 1. Shortcut install
 Open [the shortcut link](https://www.icloud.com/shortcuts/e5d3a6c244e7403eb7fa56cabb0fd2ac) on your iPhone and download it.
 
-#### 2. <Working on it...>
+#### 2. Working on it...
