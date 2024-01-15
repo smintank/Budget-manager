@@ -32,10 +32,10 @@ Telegram-Bot Features
 - [ ] Debts and payments reminder
 
 Deprecated feature
-- [ ] Adding expenses and incomes in Google Sheets
+- [X] Adding expenses and incomes in Google Sheets
 
 Frontend
-- Planned in future
+- Planned in the future
 
 Testing
 - [ ] Tests covering
@@ -54,8 +54,8 @@ Planned soon:
 ```
 POST    /api/v1/budget/expence/
 GET     /api/v1/budget/expences/
-GET     /api/v1/budget/expence/{exprnce_id}/
-DELETE  /api/v1/budget/expence/{exprnce_id}/
+GET     /api/v1/budget/expence/{expence_id}/
+DELETE  /api/v1/budget/expence/{expence_id}/
 
 POST    /api/v1/budget/income/
 GET     /api/v1/budget/incomes/
@@ -67,3 +67,5 @@ DELETE  /api/v1/budget/income/{income_id}/
 
 #### 1. Shortcut install
 Open [the shortcut link](https://www.icloud.com/shortcuts/e5d3a6c244e7403eb7fa56cabb0fd2ac) on your iPhone and download it.
+
+#### 2. <Working on it...>
